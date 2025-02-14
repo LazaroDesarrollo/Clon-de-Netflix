@@ -1,5 +1,5 @@
 // script.js
-const apiKey = '34392c13f400ebfd866c39b3987c5e04'; // Reemplaza con tu API Key de TMDb
+const apiKey = '34392c13f400ebfd866c39b3987c5e04';
 const baseUrl = 'https://api.themoviedb.org/3';
 const moviesContainer = document.getElementById('movies');
 const loadMoreButton = document.getElementById('load-more');
